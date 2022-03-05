@@ -1,0 +1,14 @@
+.overlay {
+  position: relative;
+  left: -6px;
+  top: 350px;
+  background-color: black;
+  z-index: 100000000;
+  padding: 100px;
+  visibility: hidden;
+  width: 60%;
+}
+
+.paused {
+  visibility: visible;
+}
